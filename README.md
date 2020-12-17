@@ -26,7 +26,7 @@ Although we know exactly who survived the Titanic, the project is still useful t
 
 * Pandas, matplotlib, numpy
 * Scikit-learn
-* Logistic regression, cross-validation, k-nearest neighbours
+* Cross validation
 * Regular expressions
 * Heatmap
 * Logistic Regression
